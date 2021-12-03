@@ -1,6 +1,6 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "brake212",
+  "description": "brake212",
   "keywords": [
     "vmess or vles"
   ],
@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/louyour/ngix-fixed",
-  "repository": "https://github.com/louyour/ngix-fixed",
+  "website": "https://github.com/comic77/brake212",
+  "repository": "https://github.com/comic77/brake212",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
